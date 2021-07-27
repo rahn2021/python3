@@ -10,4 +10,4 @@ txt to html.py 将文件text2.txt转换成end.html，每行添加一个换行符
 
 connections plus.py text2.txt为原文，google.txt、edeg.txt、handex.txt为译文，生成一个end.txt文件，功能是一个原文，3个译文生成一个文件.
 
-comic 3.22 将本地的目录图片自动生成html一个图片+标题的动漫选项，主要用于本地看漫画.
+comic 3.22.py 将本地的目录图片自动生成html一个图片+标题的动漫选项，主要用于本地看漫画.
